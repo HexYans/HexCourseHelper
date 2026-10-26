@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Huami Course Helper
-// @namespace    huamidev.com
+// @name         Hex Course Helper
+// @namespace    
 // @version      0.01
-// @author       huami
-// @description  Huami Course Helper
+// @author       Hex Yans
+// @description  Hex Course Helper
 // @license      MIT
 // @icon         https://cdn.nodeimage.com/i/8vygBRNBN0vG9E2aaeShetE6NmQr58UZ.webp
 // @match        *://*.chaoxing.com/*
